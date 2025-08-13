@@ -89,19 +89,19 @@ This guide will help you decide how to best use this project base according to y
 **How do you want to use this project?**
 
 1. **Use this project as a complete base with all its content:**
-   - Fork this repository to your GitHub account.
+   - Click the green **"Use this template"** button at the top of the repository page to create your own repository based on this template.
    - Follow the steps from section below - [*2. Use the README with rules in your existing project*](#use_readme) - to customize the README, update rules, and tailor the project to your needs.
 <a name="use_readme"></a>
-2. **Use the README with rules in your existing project:**
-    - Copy the README file into your project repository.  
+3. **Use the README with rules in your existing project:**
     - Remove section 0 (this introduction) to keep the rules as the core content.
     - Update the project title and description to reflect your project.
     - Adjust asset and coding rules as needed to fit your current workflows.
     - Use these rules as a style guide to improve consistency and collaboration within your team.
 
-3. **Set up your own project with a custom configuration:**
+4. **Set up your own project with a custom configuration:**
     - Create a new Unity project with your preferred Unity version.
     - Selectively add only the systems or packages you need (for example, Dependency Injection or Localization).
+	- Copy the README file into your project repository.
     - Follow the steps from section above - [*2. Use the README with rules in your existing project*](#use_readme) - to customize the README, update rules, and tailor the project to your needs.
 
 **[⬆ Back to Top](#table-of-contents)**
